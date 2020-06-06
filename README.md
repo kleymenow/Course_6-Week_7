@@ -9,7 +9,7 @@
 * Сырые данные о поездках такси [nyc.gov](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 * Файл regions - содержит идентификаторы (id) районов и географичекие координаты их границ
 
-Результат:
+Визуализации:
 
 ![](https://github.com/kleymenow/Course_6-Week_7/blob/master/maps1.gif)
 
