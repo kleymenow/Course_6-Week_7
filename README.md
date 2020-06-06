@@ -11,9 +11,9 @@
 
 Результат:
 
-![](https://github.com/kleymenow/Course_6-Week_7/maps1.gif)
+![](https://github.com/kleymenow/Course_6-Week_7/blob/master/maps1.gif)
 
-![](https://github.com/kleymenow/Course_6-Week_7/series1.gif) 
+![](https://github.com/kleymenow/Course_6-Week_7/blob/master/series1.gif) 
 
 
 **Порядок выполенения проекта:**
